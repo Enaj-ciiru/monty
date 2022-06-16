@@ -101,7 +101,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 * The opcode nop doesn’t do anything.
 
 ### Advanced Tasks
-* opcodes: sub, div, mul, mod, comments, pchar, pstr, rotl, rotr, stack, queue, Holberton, Add two digits, Multiplication, Multiplication level up
+* opcodes: sub, div, mul, mod, comments, pchar, pstr, rotl, rotr, stack, queue, School, Add two digits, Multiplication, Multiplication level up
 
 ---
 
